@@ -1,0 +1,2 @@
+# GitIDEATest
+在IDEA配置GIT
